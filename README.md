@@ -5,6 +5,7 @@ Delauny triangulation of 2D points using Bowyer-Watson algorithm
 
 - Python 3.7+
 - numpy
+- matplotlib
 
 
 ## Pseudo-code algorithm
