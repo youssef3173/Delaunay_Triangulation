@@ -1,14 +1,8 @@
 # Delaunay Triangulation
-
-# delaunay-triangulation
-
-[![Build Status](https://travis-ci.org/Bl4ckb0ne/delaunay-triangulation.svg?branch=master)](https://travis-ci.org/Bl4ckb0ne/delaunay-triangulation)
-
-
+Delauny triangulation of 2D points using Bowyer-Watson algorithm
 
 ## Requirement
 
- [//]: <> (- [Meson](https://mesonbuild.com/) )
 - Python 3.7+
 - numpy
 
@@ -22,9 +16,9 @@ function BowyerWatson (pointList);
   
 ```
 
-## Sample
+## Results
 
-![alt text](https://github.com/Bl4ckb0ne/delaunay-triangulation/blob/master/sample.png "Sample image (if you see this, then the image can't load or hasn't loaded yet)")
+![alt text](https://github.com/youssef3173/Delaunay_Triangulation/blob/main/Triangulation.PNG "Sample image (if you see this, then the image can't load or hasn't loaded yet)")
 
 
 
